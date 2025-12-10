@@ -496,7 +496,6 @@ docker-compose up -d --build
 - **README.md** (this file) - Project overview
 
 ### Backend
-- **backend/ANALYTICS.md** - Analytics system documentation
 - **backend/tests/README.md** - Testing documentation
 
 ## 🤝 Contributing
